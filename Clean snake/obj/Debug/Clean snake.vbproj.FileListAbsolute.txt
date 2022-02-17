@@ -1,0 +1,71 @@
+D:\College work\Clean snake\Clean snake\bin\Debug\Clean snake.exe.config
+E:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.exe.config
+E:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.exe
+E:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.pdb
+E:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.xml
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean_snake.Resources.resources
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.exe
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.xml
+E:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.pdb
+D:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.exe.config
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.exe
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.xml
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.pdb
+D:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.exe
+D:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.pdb
+D:\College work\programming\Clean snake\Clean snake\bin\Debug\Clean snake.xml
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean_snake.Resources.resources
+D:\College work\programming\Clean snake\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+D:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe.config
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.exe
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.xml
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.pdb
+D:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe
+D:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.pdb
+D:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.xml
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+D:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+E:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe.config
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.exe
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.xml
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.pdb
+E:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe
+E:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.pdb
+E:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.xml
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+E:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+F:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe.config
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.exe
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.xml
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.pdb
+F:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe
+F:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.pdb
+F:\College work\programming\Clean snake ✓\Clean snake\bin\Debug\Clean snake.xml
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+F:\College work\programming\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe.config
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.exe
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.xml
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.pdb
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\bin\Debug\Clean snake.pdb
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\bin\Debug\Clean snake.xml
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+F:\College work\programming\$Console apps\Clean snake ✓\Clean snake\bin\Debug\Clean snake.exe.config
+F:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.exe
+F:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.xml
+F:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.pdb
+E:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+D:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+D:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+D:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
+I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
+I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
