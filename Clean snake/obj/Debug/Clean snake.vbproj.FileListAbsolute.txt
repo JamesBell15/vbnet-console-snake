@@ -69,3 +69,14 @@ D:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\
 I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbprojResolveAssemblyReference.cache
 I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean_snake.Resources.resources
 I:\College work\programming\$Console apps\Clean snake ✓\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.Cache
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\bin\Debug\Clean snake.exe
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\bin\Debug\Clean snake.pdb
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\bin\Debug\Clean snake.xml
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.vbproj.AssemblyReference.cache
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.vbproj.SuggestedBindingRedirects.cache
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean_snake.Resources.resources
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.vbproj.GenerateResource.cache
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.vbproj.CoreCompileInputs.cache
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.exe
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.xml
+D:\College work\programming\$Console apps\Clean snake ✓\vbnet-console-snake\Clean snake\obj\Debug\Clean snake.pdb
